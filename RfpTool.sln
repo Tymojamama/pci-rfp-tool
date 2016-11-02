@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RfpTool.UI", "RfpTool.UI\RfpTool.UI.csproj", "{AF36E29B-82F0-4EAF-B796-3394DC47DD10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RfpTool.Business", "RfpTool.Business\RfpTool.Business.csproj", "{6C548435-D833-433A-B985-119FC860BAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RfpTool.Security", "RfpTool.Security\RfpTool.Security.csproj", "{64DD2597-772E-4CB5-8523-047755869FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RicherTextBox", "..\RicherTextBox\RicherTextBox\RicherTextBox.csproj", "{8F3074D8-E771-4C5E-A11E-0C0FBAE34AE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtfWriter", "..\netrtfwriter-1.0.0\RtfWriter\RtfWriter.csproj", "{591BCEB5-6B6F-4368-BE6C-F89F668F7DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF36E29B-82F0-4EAF-B796-3394DC47DD10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF36E29B-82F0-4EAF-B796-3394DC47DD10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF36E29B-82F0-4EAF-B796-3394DC47DD10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF36E29B-82F0-4EAF-B796-3394DC47DD10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C548435-D833-433A-B985-119FC860BAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C548435-D833-433A-B985-119FC860BAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C548435-D833-433A-B985-119FC860BAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C548435-D833-433A-B985-119FC860BAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64DD2597-772E-4CB5-8523-047755869FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64DD2597-772E-4CB5-8523-047755869FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64DD2597-772E-4CB5-8523-047755869FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64DD2597-772E-4CB5-8523-047755869FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F3074D8-E771-4C5E-A11E-0C0FBAE34AE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F3074D8-E771-4C5E-A11E-0C0FBAE34AE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F3074D8-E771-4C5E-A11E-0C0FBAE34AE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F3074D8-E771-4C5E-A11E-0C0FBAE34AE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591BCEB5-6B6F-4368-BE6C-F89F668F7DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591BCEB5-6B6F-4368-BE6C-F89F668F7DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591BCEB5-6B6F-4368-BE6C-F89F668F7DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591BCEB5-6B6F-4368-BE6C-F89F668F7DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.Security\bin\Debug\RfpTool.Security.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.Security\bin\Debug\RfpTool.Security.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.Security\bin\Debug\DataIntegrationHub.Business.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.Security\bin\Debug\PensionConsultants.Data.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.Security\bin\Debug\DataIntegrationHub.Business.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.Security\bin\Debug\PensionConsultants.Data.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.Security\obj\Debug\RfpTool.Security.dll
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.Security\obj\Debug\RfpTool.Security.pdb
+C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.Security\obj\Debug\RfpTool.Security.csprojResolveAssemblyReference.cache

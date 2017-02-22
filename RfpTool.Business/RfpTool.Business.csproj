@@ -110,12 +110,6 @@
   <ItemGroup>
     <None Include="Resources\footer.png" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\..\netrtfwriter-1.0.0\RtfWriter\RtfWriter.csproj">
-      <Project>{591bceb5-6b6f-4368-be6c-f89f668f7dcb}</Project>
-      <Name>RtfWriter</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

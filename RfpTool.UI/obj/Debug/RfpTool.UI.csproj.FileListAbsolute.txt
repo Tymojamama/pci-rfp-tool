@@ -36,3 +36,37 @@ C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.UI\obj\
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.UI\obj\Debug\RfpTool.exe
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.UI\obj\Debug\RfpTool.pdb
 C:\Users\zallen\Documents\Visual Studio 2013\Projects\RfpTool.UI\RfpTool.UI\obj\Debug\RfpTool.UI.Forms.frmQuestion_OLD.resources
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RfpTool.exe.config
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.exe
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.pdb
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.UI.csprojResolveAssemblyReference.cache
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\Forms\wpfQuestion.baml
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\Forms\wpfQuestion.g.cs
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool_MarkupCompile.cache
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.g.resources
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.UI.Forms.frmSelectQuestion.resources
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.UI.Forms.frmProject.resources
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.UI.Forms.frmMain.resources
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.UI.Forms.frmCategory.resources
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.UI.Forms.frmQuestion_OLD.resources
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.UI.Properties.Resources.resources
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.UI.csproj.GenerateResource.Cache
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RfpTool.exe.manifest
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RfpTool.application
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RfpTool.exe
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RfpTool.pdb
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\ColorPicker.dll
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\DataIntegrationHub.Business.dll
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RfpTool.Business.dll
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RfpTool.Security.dll
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RicherTextBox.dll
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RTFEditor.dll
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RtfWriter.dll
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\PensionConsultants.Data.dll
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\DocX.dll
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RfpTool.Business.pdb
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\RfpTool.Security.pdb
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\DataIntegrationHub.Business.pdb
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\bin\Debug\PensionConsultants.Data.pdb
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.exe.manifest
+C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.UI\obj\Debug\RfpTool.application

@@ -73,16 +73,24 @@
   <ItemGroup>
     <Reference Include="ColorPicker, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Desktop\IT\RTFEditor\RTFEditor\bin\Debug\ColorPicker.dll</HintPath>
+      <HintPath>Y:\IT\Libraries\ColorPicker.dll</HintPath>
     </Reference>
     <Reference Include="DataIntegrationHub.Business">
       <HintPath>\\PC03\Common Ground\IT\Libraries\DataIntegrationHub.Business.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />
+    <Reference Include="RicherTextBox, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Y:\IT\Libraries\RicherTextBox.dll</HintPath>
+    </Reference>
     <Reference Include="RTFEditor, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Desktop\IT\RTFEditor\RTFEditor\bin\Debug\RTFEditor.dll</HintPath>
+      <HintPath>Y:\IT\Libraries\RTFEditor.dll</HintPath>
+    </Reference>
+    <Reference Include="RtfWriter, Version=0.9.1.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Y:\IT\Libraries\RtfWriter.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -176,14 +184,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\netrtfwriter-1.0.0\RtfWriter\RtfWriter.csproj">
-      <Project>{591bceb5-6b6f-4368-be6c-f89f668f7dcb}</Project>
-      <Name>RtfWriter</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\..\RicherTextBox\RicherTextBox\RicherTextBox.csproj">
-      <Project>{8F3074D8-E771-4C5E-A11E-0C0FBAE34AE3}</Project>
-      <Name>RicherTextBox</Name>
-    </ProjectReference>
     <ProjectReference Include="..\RfpTool.Business\RfpTool.Business.csproj">
       <Project>{6c548435-d833-433a-b985-119fc860bafb}</Project>
       <Name>RfpTool.Business</Name>

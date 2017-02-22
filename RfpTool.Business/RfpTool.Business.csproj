@@ -33,8 +33,9 @@
     <Reference Include="DocX">
       <HintPath>\\PC03\Common Ground\IT\Libraries\DocX.dll</HintPath>
     </Reference>
-    <Reference Include="PensionConsultants.Data">
-      <HintPath>\\PC03\Common Ground\IT\Libraries\PensionConsultants.Data.dll</HintPath>
+    <Reference Include="PensionConsultants.Data, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Y:\IT\Libraries\PensionConsultants.Data.dll</HintPath>
     </Reference>
     <Reference Include="PresentationCore" />
     <Reference Include="PresentationFramework" />

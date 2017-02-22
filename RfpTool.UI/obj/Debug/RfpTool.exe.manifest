@@ -90,14 +90,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RfpTool.exe" size="133120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="RfpTool.exe" size="133632">
       <assemblyIdentity name="RfpTool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>tqm6UoVHO/oRwOI6BQDYMd6b7MpN5Wy4q/rq2kBMgmU=</dsig:DigestValue>
+        <dsig:DigestValue>Y7ZTOdOEzk0eYkpaZOOvpc4EuLI5Kw9Sf9wh5gwR+ag=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -109,7 +109,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>FmTsmDhliLNr/OxCHBzATA5hwGu5vnoIAk1iUxob3kg=</dsig:DigestValue>
+        <dsig:DigestValue>ezSx9bOox06uhtAYGSO3chCankFYR9DuWuAicQJGRfI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -121,7 +121,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YFi4oGRLZzo7OMJxjHFdhwGW8JHAqwkjdAyVMyXj1W0=</dsig:DigestValue>
+        <dsig:DigestValue>l1x3gRT2Qseoo6uIqthBI7DQx8m2E7lckn2speG5rGk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

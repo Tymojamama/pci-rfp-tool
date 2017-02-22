@@ -13,6 +13,5 @@ C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Security\bin\Debug\DataInt
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Security\bin\Debug\PensionConsultants.Data.dll
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Security\bin\Debug\DataIntegrationHub.Business.pdb
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Security\bin\Debug\PensionConsultants.Data.pdb
-C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Security\obj\Debug\RfpTool.Security.csprojResolveAssemblyReference.cache
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Security\obj\Debug\RfpTool.Security.dll
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Security\obj\Debug\RfpTool.Security.pdb

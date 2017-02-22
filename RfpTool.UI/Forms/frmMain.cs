@@ -101,7 +101,16 @@ namespace RfpTool.UI.Forms
             else
             {
                 this.Enabled = false;
-                MessageBox.Show("An error occurred connecting to the database.", "Error", MessageBoxButtons.OK);
+                try
+                {
+                    Database.RfpTool.ExecuteStoredProcedureQuery("[dbo].[usp_ProjectGetAll]");
+                }
+                catch (Exception ex)
+                {
+                    var message = "An error occurred connecting to the database: ";
+                    message += ex.Message;
+                    MessageBox.Show(message, "Error", MessageBoxButtons.OK);
+                }
                 this.Close();
             }
         }

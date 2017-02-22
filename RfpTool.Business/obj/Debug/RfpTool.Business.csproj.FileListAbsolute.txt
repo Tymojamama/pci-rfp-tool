@@ -16,7 +16,6 @@ C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Business\bin\Debug\RfpTool
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Business\bin\Debug\DocX.dll
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Business\bin\Debug\PensionConsultants.Data.dll
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Business\bin\Debug\PensionConsultants.Data.pdb
-C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Business\obj\Debug\RfpTool.Business.csprojResolveAssemblyReference.cache
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Business\obj\Debug\RfpTool.Business.csproj.ResolveComReference.cache
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Business\obj\Debug\RfpTool.Business.Properties.Resources.resources
 C:\Users\zallen\Documents\GitHub\pci-rfp-tool\RfpTool.Business\obj\Debug\RfpTool.Business.csproj.GenerateResource.Cache
